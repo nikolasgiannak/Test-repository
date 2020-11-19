@@ -8,15 +8,16 @@ Why frogs are mostly green?
 
 ## It's does not exist until it's published
 
-roses are red, violoets are blue
+Roses are red, violets are blue
 where am I going, WHAT i'm gonna do
 
+Now I change the Readme.md file on github
 
 ## Yolo
 i edit and edit and edit and edit
 
 
-## sTRTING TO GET THE CONCEPT
+### Starting to understand the concept
 
-i EDIT AND SAVE AND ADD AND COMMIT AND...
+I EDIT AND SAVE AND ADD AND COMMIT AND...
 
