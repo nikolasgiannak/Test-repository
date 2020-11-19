@@ -8,6 +8,7 @@ What am I doing?
 Where am I going? 
 Why frogs are mostly green?
 
+^ These are interesting questions. Maybe most frogs are green for camouflage. Simone.
 
 
 ## It's does not exist until it's published
