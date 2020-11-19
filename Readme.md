@@ -15,3 +15,8 @@ where am I going, WHAT i'm gonna do
 ## Yolo
 i edit and edit and edit and edit
 
+
+## sTRTING TO GET THE CONCEPT
+
+i EDIT AND SAVE AND ADD AND COMMIT AND...
+
